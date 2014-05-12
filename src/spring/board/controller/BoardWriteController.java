@@ -14,8 +14,8 @@ import dao.board.BoardDAOImpl;
 
 /**
  * 등록 컨트롤러 클래스
- * @since 2013.10.11
- * @author stoneis.pe.kr
+ * @author vaertoon.com
+ * @since 2014.05
  */
 @Controller("boardWriteController")
 public class BoardWriteController {

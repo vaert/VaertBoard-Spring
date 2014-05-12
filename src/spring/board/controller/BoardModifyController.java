@@ -16,8 +16,8 @@ import dao.board.BoardDAOImpl;
 
 /**
  * 수정 컨트롤러 클래스
- * @since 2013.10.11
- * @author stoneis.pe.kr
+ * @author vaertoon.com
+ * @since 2014.05
  */
 @Controller("boardModifyController")
 public class BoardModifyController {
